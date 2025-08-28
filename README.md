@@ -1,5 +1,5 @@
 # fashion-trends-ai
-Projeto académico/pessoal de previsão de tendências de moda usando dados do Pinterest.
+Projeto pessoal de previsão de tendências de moda usando dados do Pinterest.
 
 Problemática: Antecipar tendências de moda futuras com dados históricos e sinais atuais de redes sociais e pesquisa.
 
