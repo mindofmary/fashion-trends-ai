@@ -1,17 +1,3 @@
-pandas
 numpy
-requests
-pytrends
-tensorflow
-torch
 scikit-learn
 matplotlib
-plotly
-seaborn
-notebook
-jupyter
-spacy
-transformers
-prophet
-streamlit
-python-dotenv
